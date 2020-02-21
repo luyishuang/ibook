@@ -1,0 +1,23 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "✨ 在线电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luyishuang/ibook.git"
+  },
+  "keywords": [],
+  "author": "luyishuang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luyishuang/ibook/issues"
+  },
+  "homepage": "https://github.com/luyishuang/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
